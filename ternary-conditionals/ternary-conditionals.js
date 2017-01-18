@@ -34,7 +34,7 @@ Executable statements can also be used instead of just returning a value
  */
 isKing && isArthur ? alert("Hail Arthur, King of the Britons") : alert("Charge on, yeknight, for the glory of the King!");
 
-/* Calling a IIFE (Immediately invoked function expression */
+/* Calling an IIFE (Immediately invoked function expression */
 isKing && isArthur ? function(){
         alert("Hail Arthur, King of the Britons");
         console.log("Current weapon: Excalibur");
